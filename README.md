@@ -44,7 +44,7 @@ These models were trained using scikit-learn, and their performance was evaluate
 
 **Correlation Heatmap:**
 
-![Correlation Heatmap](../images/correlation_heatmap.png) 
+![Correlation Heatmap](/images/correlation_heatmap.png) 
 
 ---
 
@@ -57,7 +57,7 @@ These models were trained using scikit-learn, and their performance was evaluate
 
 **Actual vs Predicted Plot:**
 
-![Prediction Plot](results.png)
+![Prediction Plot](images/results.png)
 
 ---
 
