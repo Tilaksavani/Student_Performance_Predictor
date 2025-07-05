@@ -94,8 +94,8 @@ This project is open-source and available under the MIT License.
 ---
 
 ## 🙋‍♂️ Author
-Tilak Savani
-Master's in Computer Science | University of Georgia
+**Tilak Savani**
+Master's in Computer Science | University of Georgia  
 Domain: Artificial Intelligence & Machine Learning
 
 ---
