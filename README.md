@@ -52,8 +52,8 @@ These models were trained using scikit-learn, and their performance was evaluate
 
 | Model                 | MSE (↓) | R² Score (↑) |
 |-----------------------|---------|--------------|
-| Linear Regression     | 3.45    | 0.82         |
-| Decision Tree Regressor | 4.15  | 0.76         |
+| Linear Regression     | 4.46    | 0.78         |
+| Decision Tree Regressor | 2.25  | 0.89         |
 
 **Actual vs Predicted Plot:**
 
@@ -74,3 +74,33 @@ These models were trained using scikit-learn, and their performance was evaluate
     jupyter notebook
 
 4. Open student_performance_predictor.ipynb and run all cells.
+
+---
+
+## 🧰 Tools & Libraries
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+scikit-learn
+Jupyter Notebook
+
+---
+
+## 📄 License
+This project is open-source and available under the MIT License.
+
+---
+
+## 🙋‍♂️ Author
+Tilak Savani
+Master's in Computer Science | University of Georgia
+Domain: Artificial Intelligence & Machine Learning
+
+---
+
+## ⭐ Credits
+
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
+- [scikit-learn developers](https://scikit-learn.org/)
