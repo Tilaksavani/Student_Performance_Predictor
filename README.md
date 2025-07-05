@@ -64,7 +64,7 @@ These models were trained using scikit-learn, and their performance was evaluate
 ## 🚀 How to Run
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/student-performance-predictor.git
+   git clone [https://github.com/yourusername/student-performance-predictor.git](https://github.com/Tilaksavani/Student_Performance_Predictor.git)
    cd student-performance-predictor
 
 2. Install the dependencies:
